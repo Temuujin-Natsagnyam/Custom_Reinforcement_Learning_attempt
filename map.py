@@ -1,7 +1,4 @@
-# This is a script which creates a map of variable dimensions
-# and allows the user to move a character around that map.
-import random
-
+#This code requires a text file named mapsave.txt to work
 savefile = "mapsave.txt"  # savefile
 def menu():
     x=int(4)
