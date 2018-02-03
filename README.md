@@ -18,6 +18,6 @@ I realised that the movements were counter-productive because only I know what t
 Now you can see the algorithm works, and if you run map_agent_thingy.py, you can see its performance over multiple generations. (I mean generations as to how many times its run consecutively). More often than not the trend is always decreasing over each time the agent tries the map. 
 
 -----------------------------------------------Key Takeaways---------------------------------------------------------------------------
-Having finished it now, I concede it's more of a weighted pathfinding algorithm than a machine learning neural network. But I proudly stand by it. I think it displays key concepts of Neural Networks and Reinforcement Learning. Such as improvement over each attempt, weights(although not really), punishments and incentives. This project has been extremely fun and I plan to come back to this once I am confident with my Machine Learning technical abilities. 
+Having finished it now, I concede it's more of a weighted pathfinding algorithm than a machine learning neural network. But I proudly stand by it. I think it displays key concepts of Neural Networks and Reinforcement Learning. Such as improvement over each attempt, weights(although not really), punishments and incentives, Virtual training environments. This project has been extremely fun and I plan to come back to this once I am confident with my Machine Learning technical abilities. 
 
 *Things to improve next time: Backtracking, incentives(difference between 3 and gg (in undo function)), weights.
